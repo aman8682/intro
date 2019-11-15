@@ -1,4 +1,4 @@
-# intro
+
 “I’m originally from UP India and I’m currently a student at kendriya vidyalaya.
  I decided to study programing because I’ve always loved to make program .
  I’m now looking to gain experience in the world of programing,
